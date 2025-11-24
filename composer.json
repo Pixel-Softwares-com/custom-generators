@@ -1,5 +1,5 @@
 {
-  "name": "pixel-softwares/custom-generators",
+  "name": "pixel-softwares-com/custom-generators",
   "description": "description",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "php": "^7.3|^8.0"
+    "php": "^8.2"
   },
   "autoload": {
     "psr-4": {
